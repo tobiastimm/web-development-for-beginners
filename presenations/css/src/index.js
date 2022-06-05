@@ -761,12 +761,6 @@ div[id=a] {background-color: blue;}`}
     </Slide>
     <Slide>
       <FlexBox height="100%" flexDirection="column">
-        <Heading>Next Time!</Heading>
-        <Text>We will dive into the depths of layouting with CSS!</Text>
-      </FlexBox>
-    </Slide>
-    <Slide>
-      <FlexBox height="100%" flexDirection="column">
         <Heading>Learn more about CSS</Heading>
         <UnorderedList>
           <ListItem>

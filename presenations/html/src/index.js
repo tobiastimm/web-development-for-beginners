@@ -252,6 +252,14 @@ function myFunction() {
       </FlexBox>
     </Slide>
     <Slide>
+      <FlexBox justifyContent="center" alignItems="center">
+        <Image
+          height={400}
+          src="https://sf.ezoiccdn.com/ezoimgfmt/networkencyclopedia.com/wp-content/uploads/2021/06/web-browsers-500px-min.jpg?ezimgfmt=ng:webp/ngcb2"
+        ></Image>
+      </FlexBox>
+    </Slide>
+    <Slide>
       <FlexBox height="100%" flexDirection="column">
         <Heading margin="0px" fontSize="h1">
           <i>How can I start coding?</i>
@@ -298,8 +306,16 @@ function myFunction() {
     <Slide>
       <FlexBox height="100%" flexDirection="column">
         <Heading margin="0px" fontSize="h1">
-          Installing time
+          <i>Taking the first steps into HTML, CSS and JS</i>
         </Heading>
+        <Heading margin="0px" fontSize="h2">
+          🤔
+        </Heading>
+      </FlexBox>
+    </Slide>
+    <Slide>
+      <FlexBox height="100%">
+        <Heading>Exercise Time! 🤯</Heading>
       </FlexBox>
     </Slide>
   </Deck>
